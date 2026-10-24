@@ -1,0 +1,6 @@
+{
+  "name": "TutorHn",
+  "description": "Marketplace educativo en Honduras que conecta estudiantes, padres de familia y adultos con tutores particulares verificados para clases virtuales y presenciales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
